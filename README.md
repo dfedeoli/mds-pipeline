@@ -11,11 +11,14 @@ Primeiro, Fork no repo airbytehq/airbyte, depois clonar para o ambiente de desen
 ./run-ab-platform.sh
 </code></pre>
 
-Os arquivos .env e docker-compose.yaml são baixados, mas estão sendo ignorados por .gitignore e .dockerignore. Os removi do arquivo e adicionei todos no meu repo airbyte, além de remover usuário e senha do Airbyte.
+Os arquivos _.env_ e _docker-compose.yaml_ são baixados, mas estão sendo ignorados por _.gitignore_ e _.dockerignore_. Os removi dos arquivos _ignore_ e adicionei todos no meu repo, além de remover usuário e senha do Airbyte. Então, é possível dar o comando para levantar o Docker Compose:  
+<pre><code>docker-compose up
+</code></pre>
 
 ### Airflow
 
-Step-by-step da [Documentação do Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html).
+Step-by-step da [Documentação do Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html) para instanciar container Docker.
+
 
 ### dbt
 
