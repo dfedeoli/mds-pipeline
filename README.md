@@ -15,10 +15,10 @@ Os arquivos .env e docker-compose.yaml são baixados, mas estão sendo ignorados
 
 ### Airflow
 
-https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+Step-by-step da [Documentação do Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html).
 
 ### dbt
 
-Repo [dfedeoli/dbt-model](https://github.com/dfedeoli/dbt-model) com modelos e schema criados no dbt
+Repo [dfedeoli/dbt-model](https://github.com/dfedeoli/dbt-model) com modelos e schema criados no dbt.
 
 ### Metabase
