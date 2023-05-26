@@ -106,3 +106,5 @@ Cloud Staging (Ambiente de Produção)
 * Testar a conexão entre os containers do Airflow e do Airbyte
 * Criar as conexões com o Airbyte através do script
 * Testar a execução do pipeline
+
+**Listagem de tarefas baseada no [GitHub Repo do curso](https://github.com/moderndatastackpipeline/modern-data-stack).**
