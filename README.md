@@ -1,6 +1,6 @@
 # Modern Data Stack Pipeline
 
-Pipeline com Airbyte, Airflow, dbt, Snowflake e Metabase.
+Curso da [Stack Academy](https://stackacademy.com.br) para construção de pipeline com Airbyte, Airflow, dbt, Snowflake e Metabase.
 
 ![alt text](https://github.com/dfedeoli/mds-pipeline/blob/main/modern_data_stack.png?raw=true)
 
