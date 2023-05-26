@@ -73,7 +73,7 @@ Cloud Staging (Ambiente de Produção)
 #### No dbt
 
 * Criação da Conta
-* Conexão com o GitHub X
+* Conexão com o GitHub
 * Criação do Dbt Project
 * Criação do Profile de conexão com o snowflake
 * Criação do Schema
