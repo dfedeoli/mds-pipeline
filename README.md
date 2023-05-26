@@ -22,3 +22,5 @@ Step-by-step da [Documentação do Airflow](https://airflow.apache.org/docs/apac
 Repo [dfedeoli/dbt-model](https://github.com/dfedeoli/dbt-model) com modelos e schema criados no dbt.
 
 ### Metabase
+
+Criação de arquivo Docker Compose para levantar container Metabase.
