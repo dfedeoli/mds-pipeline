@@ -55,7 +55,7 @@ Criação de arquivo Docker Compose para levantar container Metabase.
 
 #### No Airbyte
 
-* Conectar com as origens baseadas nos arquivos .csv
+* Conectar com as origens baseadas nos arquivos _.csv_
 * Criar as entidades no snowflake através do script base da documentação
 * Conectar o destino no snowflake
 * Criar as conexões do Airbyte associando as origens ao destino 
@@ -93,15 +93,15 @@ Cloud Staging (Ambiente de Produção)
 * Criar uma Question
 * Criar um Dashboard
 * Adicionar uma Question
-* Visualizar o Resultado
+* Visualizar o resultado
 
 ### Orquestração:
 
 #### No Airflow
 
-* Criar a dag
-* Criar a Docker network
-* Incluir nos Docker Composes a network criada
+* Criar a DAG
+* Criar a Docker Network
+* Incluir nos Docker Composes a Network criada
 * Setup no serviço
 * Testar a conexão entre os containers do Airflow e do Airbyte
 * Criar as conexões com o Airbyte através do script
