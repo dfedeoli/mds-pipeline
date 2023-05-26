@@ -1,8 +1,10 @@
 # mds-pipeline
 
-Tarefas
+## Tarefas
 
-* Primeiro, Fork no repo airbytehq/airbyte, depois clonar para o ambiente de desenvolvimento e rodar os comandos:
+### Airbyte 
+
+Primeiro, Fork no repo airbytehq/airbyte, depois clonar para o ambiente de desenvolvimento e rodar os comandos:
 cd airbyte
 ./run-ab-platform.sh
 
