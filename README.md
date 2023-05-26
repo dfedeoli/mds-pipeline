@@ -11,7 +11,7 @@ Primeiro, Fork no repo airbytehq/airbyte, depois clonar para o ambiente de desen
 ./run-ab-platform.sh
 </code></pre>
 
-Os arquivos <.env> e <docker-compose.yaml> são baixados, mas estão sendo ignorados por .gitignore e .dockerignore. Os removi do arquivo e adicionei todos no meu repo airbyte, além de remover usuário e senha do Airbyte.
+Os arquivos .env e docker-compose.yaml são baixados, mas estão sendo ignorados por .gitignore e .dockerignore. Os removi do arquivo e adicionei todos no meu repo airbyte, além de remover usuário e senha do Airbyte.
 
 ### Airflow
 
