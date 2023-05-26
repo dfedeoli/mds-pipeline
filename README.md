@@ -1,4 +1,6 @@
-# mds-pipeline
+# Modern Data Stack pipeline
+
+Pipeline com Airbyte, Airflow, dbt, Snowflake e Metabase.
 
 ## Tarefas
 
