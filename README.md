@@ -35,7 +35,7 @@ Criação de arquivo Docker Compose para levantar container Metabase.
 
 ## Breakdown das tarefas
 
-### Infraestrutura:
+### Infraestrutura
 
 * Setup do ambiente de desenvolvimento no Gitpod.io
 * Setar as Permissoes do Gitpod ao Repositorio no GitHub
@@ -45,7 +45,7 @@ Criação de arquivo Docker Compose para levantar container Metabase.
 * Criar o script de execução
 * Testar a execução
 
-### Snowflake Data Warehouse:
+### Snowflake Data Warehouse
 
 * Criar a Conta no snowflake
 * Verificar a existência das tabelas
@@ -53,7 +53,7 @@ Criação de arquivo Docker Compose para levantar container Metabase.
 
 ### Extração:
 
-#### No Airbyte:
+#### No Airbyte
 
 * Conectar com as origens baseadas nos arquivos .csv
 * Criar as entidades no snowflake através do script base da documentação
@@ -63,14 +63,14 @@ Criação de arquivo Docker Compose para levantar container Metabase.
 
 ### Preparação:
 
-#### No Airbyte (Destination Loading Method):
+#### No Airbyte (Destination Loading Method)
 
 Local Staging (Ambiente de Desenvolvimento)
 Cloud Staging (Ambiente de Produção)
 
 ### Transformação:
 
-#### No dbt:
+#### No dbt
 
 * Criação da Conta
 * Conexão com o GitHub X
@@ -87,7 +87,7 @@ Cloud Staging (Ambiente de Produção)
 
 ### Visualização:
 
-#### No Metabase:
+#### No Metabase
 
 * Conectar Metabase com o Snowflake
 * Criar uma Question
@@ -97,7 +97,7 @@ Cloud Staging (Ambiente de Produção)
 
 ### Orquestração:
 
-#### No Airflow:
+#### No Airflow
 
 * Criar a dag
 * Criar a Docker network
