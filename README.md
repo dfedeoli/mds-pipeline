@@ -6,4 +6,4 @@ Tarefas
 cd airbyte
 ./run-ab-platform.sh
 
-Os arquivos .env e docker-compose.yaml são baixados, mas estão sendo ignorados por .gitignore e .dockerignore. Os removi do arquivo e adicionei todos no meu repo airbyte.
+Os arquivos .env e docker-compose.yaml são baixados, mas estão sendo ignorados por .gitignore e .dockerignore. Os removi do arquivo e adicionei todos no meu repo airbyte, além de remover usuário e senha do Airbyte.
