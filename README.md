@@ -6,7 +6,7 @@ Pipeline com Airbyte, Airflow, dbt, Snowflake e Metabase.
 
 ### Airbyte 
 
-Primeiro, Fork no repo airbytehq/airbyte, depois clonar para o ambiente de desenvolvimento e rodar os comandos:  
+Primeiro, fiz um Fork no repo **airbytehq/airbyte**, depois clonei o repo para o ambiente de desenvolvimento e rodei os comandos:  
 <pre><code>cd airbyte  
 ./run-ab-platform.sh
 </code></pre>
